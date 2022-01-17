@@ -7,6 +7,6 @@ print(pyautogui.position()) # Point(x, y) # 현 위치 출력
 pyautogui.moveTo(300, 200, duration=0.5)
 print(pyautogui.position()) # Point(x, y)
 
-pyautogui.move(100, 500, duration=0.5) # 상대위치
+pyautogui.move(100, 500, duration=0.5) # 상대위치 메롱
 p = pyautogui.position()
 print(p[0], p[1], p.x, p.y)
