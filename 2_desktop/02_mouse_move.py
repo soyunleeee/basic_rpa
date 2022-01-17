@@ -1,5 +1,4 @@
 import pyautogui 
-# ㅇ너랴ㅐㅇ너래ㅑㅇ너랴ㅐ머 제안
 
 size = pyautogui.size() # 현 화면의 스크린 사이즈(가로, 세로)
 
